@@ -1,0 +1,30 @@
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\bin\Debug\net7.0\Week 4 Class.exe
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\bin\Debug\net7.0\Week 4 Class.deps.json
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\bin\Debug\net7.0\Week 4 Class.runtimeconfig.json
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\bin\Debug\net7.0\Week 4 Class.dll
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\bin\Debug\net7.0\Week 4 Class.pdb
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\obj\Debug\net7.0\Week 4 Class.csproj.AssemblyReference.cache
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\obj\Debug\net7.0\Week 4 Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\obj\Debug\net7.0\Week 4 Class.AssemblyInfoInputs.cache
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\obj\Debug\net7.0\Week 4 Class.AssemblyInfo.cs
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\obj\Debug\net7.0\Week 4 Class.csproj.CoreCompileInputs.cache
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\obj\Debug\net7.0\Week 4 Class.dll
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\obj\Debug\net7.0\refint\Week 4 Class.dll
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\obj\Debug\net7.0\Week 4 Class.pdb
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\obj\Debug\net7.0\Week 4 Class.genruntimeconfig.cache
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\Week 4 Class\obj\Debug\net7.0\ref\Week 4 Class.dll
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\bin\Debug\net7.0\Week 4 Class.exe
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\bin\Debug\net7.0\Week 4 Class.deps.json
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\bin\Debug\net7.0\Week 4 Class.runtimeconfig.json
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\bin\Debug\net7.0\Week 4 Class.dll
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\bin\Debug\net7.0\Week 4 Class.pdb
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\obj\Debug\net7.0\Week 4 Class.csproj.AssemblyReference.cache
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\obj\Debug\net7.0\Week 4 Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\obj\Debug\net7.0\Week 4 Class.AssemblyInfoInputs.cache
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\obj\Debug\net7.0\Week 4 Class.AssemblyInfo.cs
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\obj\Debug\net7.0\Week 4 Class.csproj.CoreCompileInputs.cache
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\obj\Debug\net7.0\Week 4 Class.dll
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\obj\Debug\net7.0\refint\Week 4 Class.dll
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\obj\Debug\net7.0\Week 4 Class.pdb
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\obj\Debug\net7.0\Week 4 Class.genruntimeconfig.cache
+C:\Users\ndg9n\OneDrive\Desktop\PROG8145 Software Develpoment Techniques\Demo_Proj\_8829850_Lab2\obj\Debug\net7.0\ref\Week 4 Class.dll

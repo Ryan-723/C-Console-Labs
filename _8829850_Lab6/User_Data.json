@@ -1,0 +1,38 @@
+[
+  {
+    "FirstName": "Mike",
+    "LastName": "Shoemaker",
+    "Birthdate": "01/01/1999",
+    "Address": "King Street",
+    "City": "Waterloo",
+    "Country": "Canada",
+    "Province": "Ontario"
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Birthdate": "01/01/1999",
+    "Address": "King Street",
+    "City": "Waterloo",
+    "Country": "Canada",
+    "Province": "Ontario"
+  },
+  {
+    "FirstName": "Not",
+    "LastName": "Sure",
+    "Birthdate": "11-11-2222",
+    "Address": "YYYYYYY",
+    "City": "Los Angeles",
+    "Country": "USA",
+    "Province": "California"
+  },
+  {
+    "FirstName": "",
+    "LastName": "",
+    "Birthdate": "22-01-2000",
+    "Address": "University Ave",
+    "City": "kitchener",
+    "Country": "Canada",
+    "Province": "Ontario"
+  }
+]
